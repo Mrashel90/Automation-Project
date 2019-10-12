@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21e90152-62b0-444b-a83f-a575369261ad" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RCNrjqkIfa426RW4A13NgYrOft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mrash\OneDrive\Documents\Maven Project\src\main\resources" />
+      <recent name="C:\Users\mrash\OneDrive\Documents\Maven Project\src\test\java\testNG_0929" />
+      <recent name="C:\Users\mrash\OneDrive\Desktop\Maven Project\Maven Project\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testNG_0929" />
+      <recent name="Reusable_Classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrash\OneDrive\Documents\Maven Project" />
+      <recent name="C:\Users\mrash\Desktop\Maven Project\Maven Project" />
+      <recent name="C:\Users\mrash\OneDrive\Desktop\Maven Project" />
+      <recent name="C:\Users\mrash\OneDrive\Desktop\Maven Project\Maven Project" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/mrash/OneDrive/Documents/Maven Project/src/test/java/testNG_0929/YahooTest.xml">
+    <configuration name="C:/Users/mrash/OneDrive/Documents/Maven Project/src/test/java/testNG_0929/YahooTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testNG_0929/YahooTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01_Yahoo_Search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC01_Yahoo_Search" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC01_Yahoo_Search.Yahoo_SearchResultPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC01_Yahoo_Search" />
+      <option name="METHOD_NAME" value="Yahoo_SearchResultPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC02_Registration_Page" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC02_Registration_Page" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC02_Yahoo_Registration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Yahoo_Test_Page_Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Yahoo_Test_Page_Object" />
+      <option name="MAIN_CLASS_NAME" value="Yahoo_Test_Page_Object.TC02_Yahoo_Registration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/mrash/OneDrive/Documents/Maven Project/src/test/java/testNG_0929/YahooTest.xml" />
+        <item itemvalue="TestNG.TC02_Registration_Page" />
+        <item itemvalue="TestNG.TC02_Yahoo_Registration" />
+        <item itemvalue="TestNG.TC01_Yahoo_Search" />
+        <item itemvalue="TestNG.TC01_Yahoo_Search.Yahoo_SearchResultPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21e90152-62b0-444b-a83f-a575369261ad" name="Default Changelist" comment="" />
+      <created>1569167318804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569167318804</updated>
+    </task>
+    <servers />
+  </component>
+</project>
